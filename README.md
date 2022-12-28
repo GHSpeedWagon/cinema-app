@@ -1,7 +1,7 @@
 # 🎬cinema-app🎬
 ___
 ## 📄Short description
-___Cinema-app___ - it is a java web application that use Hibernate and Spring frameworks.
+___Cinema-app___ - it is a java web application that uses Hibernate and Spring frameworks.
 ___
 ### 📑Full Description📑
 Application can create user with post request /register or login old user by /login request.
