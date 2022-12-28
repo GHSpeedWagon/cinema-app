@@ -11,7 +11,7 @@ And create and fill shopping cart for current user.<br />
 Also, application can handle (complete) shopping cart orders, check available movies, cinema-halls, movie-sessions, 
 and after that shopping cart will be cleared. 
 also, we can find out order history.<br />
-For more details who can create and who can see go here -> [link](src/main/java/mate/academy/spring/config/SecurityConfig.java)
+For more details who can create and who can see go here -> [link](src/main/java/spring/config/SecurityConfig.java)
 ___
 ### 🛠Available endpoints🛠
 + POST: /register - all - **create new user**
@@ -56,6 +56,6 @@ ___
    + press fix and chose 'cinema-app:war'
 2. Change needed data into [db.properties](src/main/resources/db.properties) file
 3. (optionally) Change 32nd, 33rd lines (email and password value)
-in [DataInitializer.java](src/main/java/mate/academy/spring/config/DataInitializer.java) class, or you can change it in your database workspace
+in [DataInitializer.java](src/main/java/spring/config/DataInitializer.java) class, or you can change it in your database workspace
 4. open Postman on pc, and use it for some request types
 
